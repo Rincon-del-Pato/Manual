@@ -1,0 +1,8 @@
+[
+	{ "s": "EDICIÓN", "p": [7] },
+	{ "s": "EMAIL", "p": [2] },
+	{ "s": "ESTADO", "p": [8] },
+	{ "s": "ESTADOS", "p": [8, 7, 5] },
+	{ "s": "EXCEPTO", "p": [4] },
+	{ "s": "EXISTENCIAS", "p": [6] }
+]

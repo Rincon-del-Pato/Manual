@@ -1,0 +1,5 @@
+[
+	{ "s": "HORARIO", "p": [2] },
+	{ "s": "HTTP", "p": [4] },
+	{ "s": "HTTP://RESTAURANTE.LOCAL", "p": [4] }
+]

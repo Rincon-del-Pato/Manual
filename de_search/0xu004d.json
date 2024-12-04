@@ -1,0 +1,11 @@
+[
+	{ "s": "MANUAL", "p": [1] },
+	{ "s": "MENU_MANAGEMENT", "p": [7] },
+	{ "s": "MENÚ", "p": [7] },
+	{ "s": "MESA", "p": [8, 5] },
+	{ "s": "MESAS", "p": [5, 4, 2] },
+	{ "s": "MESAS](/DOCS/IMAGES/TABLES.PNG", "p": [5] },
+	{ "s": "MESERO", "p": [4] },
+	{ "s": "MOVIMIENTOS", "p": [6] },
+	{ "s": "MÍNIMA", "p": [3] }
+]

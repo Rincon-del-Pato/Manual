@@ -1,0 +1,11 @@
+{
+	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
+	"2": ["1. Informac... ¡Se requiere una licencia Advanced!", "informacion_general.htm", []],
+	"3": ["1.1. Requisit... ¡Se requiere una licencia Advanced!", "requisitos_del_sistema.htm", [1]],
+	"4": ["2. Acceso y Ro... ¡Se requiere una licencia Advanced!", "acceso_y_roles_del_sistema.htm", []],
+	"5": ["3. Administra... ¡Se requiere una licencia Advanced!", "administracion_de_mesas.htm", []],
+	"6": ["4. Control d... ¡Se requiere una licencia Advanced!", "control_de_inventario.htm", []],
+	"7": ["5. Gestión de M... ¡Se requiere una licencia Advanced!", "gestion_de_menu_y_productos.htm", []],
+	"8": ["6. Sistema... ¡Se requiere una licencia Advanced!", "sistema_de_pedidos.htm", []],
+	"9": ["7. Sistema ... ¡Se requiere una licencia Advanced!", "sistema_de_reportes.htm", []]
+}

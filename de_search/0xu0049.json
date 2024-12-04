@@ -1,0 +1,13 @@
+[
+	{ "s": "IMAGEN", "p": [8, 7] },
+	{ "s": "IMAGES", "p": [7, 9, 6, 5, 4, 2] },
+	{ "s": "IMÁGENES", "p": [7] },
+	{ "s": "INFORMACIÓN", "p": [2] },
+	{ "s": "INGRESO", "p": [4] },
+	{ "s": "INSTRUCCIONES", "p": [1] },
+	{ "s": "INTERFAZ", "p": [2] },
+	{ "s": "INTERNET", "p": [3] },
+	{ "s": "INVENTARIO", "p": [6, 9, 2] },
+	{ "s": "INVENTARIO](/DOCS/IMAGES/INVENTORY.PNG", "p": [6] },
+	{ "s": "INVENTORY", "p": [6] }
+]

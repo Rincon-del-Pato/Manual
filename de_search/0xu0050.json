@@ -1,0 +1,20 @@
+[
+	{ "s": "PAGOS", "p": [4] },
+	{ "s": "PANEL", "p": [2, 5] },
+	{ "s": "PANEL_ADMIN", "p": [2] },
+	{ "s": "PEDIDO", "p": [8] },
+	{ "s": "PEDIDOS", "p": [8, 4, 2] },
+	{ "s": "PENDIENTES", "p": [2] },
+	{ "s": "PERSONAL", "p": [9] },
+	{ "s": "PERSONALIZADO", "p": [2] },
+	{ "s": "PLATOS", "p": [7] },
+	{ "s": "PNG", "p": [7, 9, 6, 5, 4, 2] },
+	{ "s": "POR", "p": [8, 2] },
+	{ "s": "PRECIOS", "p": [7] },
+	{ "s": "PREPARACIÓN", "p": [4] },
+	{ "s": "PRINCIPAL", "p": [1] },
+	{ "s": "PROCESO", "p": [7] },
+	{ "s": "PRODUCTOS", "p": [7, 9, 8] },
+	{ "s": "PRODUCTOS](/DOCS/IMAGES/MENU_MANAGEMENT.PNG", "p": [7] },
+	{ "s": "PÁGINA", "p": [1] }
+]

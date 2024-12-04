@@ -1,0 +1,22 @@
+[
+	{ "s": "CAJERO", "p": [4] },
+	{ "s": "CAMPOS", "p": [4] },
+	{ "s": "CATEGORÍAS", "p": [7] },
+	{ "s": "CATEGORÍAS](/DOCS/IMAGES/MENU_MANAGEMENT.PNG", "p": [7] },
+	{ "s": "CICLO", "p": [8] },
+	{ "s": "CIERRES", "p": [4] },
+	{ "s": "COCINA", "p": [4] },
+	{ "s": "COCINERO", "p": [4] },
+	{ "s": "COM", "p": [2] },
+	{ "s": "COMPLETO", "p": [8] },
+	{ "s": "CON", "p": [2] },
+	{ "s": "CONEXIÓN", "p": [3] },
+	{ "s": "CONFIGURACIONES", "p": [4] },
+	{ "s": "CONFIRMACIÓN", "p": [8] },
+	{ "s": "CONTRASEÑA", "p": [4] },
+	{ "s": "CONTROL", "p": [6, 2] },
+	{ "s": "CORREO", "p": [4] },
+	{ "s": "CREACIÓN", "p": [7] },
+	{ "s": "CREAR", "p": [8] },
+	{ "s": "CRÍTICAS", "p": [4] }
+]
