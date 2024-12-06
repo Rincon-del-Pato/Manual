@@ -1,11 +1,18 @@
 {
-	"1": ["Página p... ¡Se requiere una licencia Advanced!", "index.htm", []],
-	"2": ["1. Informac... ¡Se requiere una licencia Advanced!", "informacion_general.htm", []],
-	"3": ["1.1. Requisit... ¡Se requiere una licencia Advanced!", "requisitos_del_sistema.htm", [1]],
-	"4": ["2. Acceso y Ro... ¡Se requiere una licencia Advanced!", "acceso_y_roles_del_sistema.htm", []],
-	"5": ["3. Administra... ¡Se requiere una licencia Advanced!", "administracion_de_mesas.htm", []],
-	"6": ["4. Control d... ¡Se requiere una licencia Advanced!", "control_de_inventario.htm", []],
-	"7": ["5. Gestión de M... ¡Se requiere una licencia Advanced!", "gestion_de_menu_y_productos.htm", []],
-	"8": ["6. Sistema... ¡Se requiere una licencia Advanced!", "sistema_de_pedidos.htm", []],
-	"9": ["7. Sistema ... ¡Se requiere una licencia Advanced!", "sistema_de_reportes.htm", []]
+	"1": ["Página p... Advanced License is required!", "index.htm", []],
+	"2": ["Manual del Sistema Web para la Dinamización de Procesos  de la Gest... Advanced License is required!", "manual_del_sistema_web_para_la_dinamizacion_de_procesos___de_la_gestion_administrativa_del_restaurante__el_rincon_del_pato__de_guadalupe.htm", []],
+	"3": ["INTROD... Advanced License is required!", "introduccion_.htm", [1]],
+	"4": ["1. Manual de Usuario para l... Advanced License is required!", "manual_de_usuario_para_la_pagina_de_inicio_de_sesion.htm", []],
+	"5": ["2. Manual de Usuari... Advanced License is required!", "manual_de_usuario___gestion_de_roles.htm", []],
+	"6": ["3. Manual de Usuari... Advanced License is required!", "manual_de_usuario___gestion_de_mesas.htm", []],
+	"7": ["4. Manual de Usuar... Advanced License is required!", "manual_de_usuario__crear_categoria.htm", []],
+	"8": ["5. Manual de Usuario - ... Advanced License is required!", "manual_de_usuario___inventario_de_articulos.htm", []],
+	"9": ["6. Manual de Usuario... Advanced License is required!", "manual_de_usuario___agregar_proveedor.htm", []],
+	"10": ["7. Manual de Usua... Advanced License is required!", "manual_de_usuario___crear_unidad.htm", []],
+	"11": ["8. Manual de Usuar... Advanced License is required!", "manual_de_usuario___crear_producto.htm", []],
+	"12": ["9. Manual de Usuario... Advanced License is required!", "manual_de_usuario___gestion_de_tamanos.htm", []],
+	"13": ["10. Manual de Usuario... Advanced License is required!", "manual_de_usuario___gestion_de_ordenes_1.htm", []],
+	"14": ["10.1. Manual de Usuari... Advanced License is required!", "manual_de_usuario___gestion_de_ordenes_2.htm", [11]],
+	"15": ["11. Manual de Usuario... Advanced License is required!", "manual_de_usuario___gestion_de_comandas.htm", []],
+	"16": ["11.1. Manual de Usuari... Advanced License is required!", "manual_de_usuario___gestion_de_ordenes_3.htm", [12]]
 }

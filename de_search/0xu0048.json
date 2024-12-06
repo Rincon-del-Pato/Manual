@@ -1,5 +1,14 @@
 [
-	{ "s": "HORARIO", "p": [2] },
-	{ "s": "HTTP", "p": [4] },
-	{ "s": "HTTP://RESTAURANTE.LOCAL", "p": [4] }
+	{ "s": "HABILITADAS", "p": [6] },
+	{ "s": "HACER", "p": [12] },
+	{ "s": "HACIENDO", "p": [5] },
+	{ "s": "HAGA", "p": [4] },
+	{ "s": "HAN", "p": [15] },
+	{ "s": "HASTA", "p": [5] },
+	{ "s": "HAY", "p": [8] },
+	{ "s": "HAYA", "p": [13, 6] },
+	{ "s": "HAZ", "p": [12, 8, 5, 16, 14, 13, 11, 15, 10, 9, 7, 6] },
+	{ "s": "HELADOS", "p": [7] },
+	{ "s": "HERRAMIENTA", "p": [15, 2] },
+	{ "s": "HISTORIAL", "p": [8] }
 ]

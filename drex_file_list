@@ -1,18 +1,26 @@
 de_search\prefixes.json
 de_search\ids.json
+de_search\0xufe0f.json
+de_search\0xu00da.json
+de_search\0xu00d3.json
+de_search\0xu00cd.json
+de_search\0xu00c9.json
+de_search\0xu00c1.json
 de_search\0xu0059.json
-de_search\0xu0058.json
 de_search\0xu0057.json
 de_search\0xu0056.json
 de_search\0xu0055.json
 de_search\0xu0054.json
 de_search\0xu0053.json
 de_search\0xu0052.json
+de_search\0xu0051.json
 de_search\0xu0050.json
 de_search\0xu004f.json
 de_search\0xu004e.json
 de_search\0xu004d.json
 de_search\0xu004c.json
+de_search\0xu004b.json
+de_search\0xu004a.json
 de_search\0xu0049.json
 de_search\0xu0048.json
 de_search\0xu0047.json
@@ -23,6 +31,7 @@ de_search\0xu0043.json
 de_search\0xu0042.json
 de_search\0xu0041.json
 de_search\0xu0039.json
+de_search\0xu0038.json
 de_search\0xu0037.json
 de_search\0xu0036.json
 de_search\0xu0035.json
@@ -31,7 +40,7 @@ de_search\0xu0033.json
 de_search\0xu0032.json
 de_search\0xu0031.json
 de_search\0xu0030.json
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\de_search
+de_search
 js\drexplain.data.index.js
 de_style.css
 css\printed.css
@@ -48,7 +57,7 @@ i\photoswipe\default-skin.png
 i\photoswipe\grabbing.cur
 i\photoswipe\grab.cur
 i\photoswipe\zoom_in.cur
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i\photoswipe
+i\photoswipe
 i\blocks\tree\sprite.png
 i\blocks\interface-icons\delicious_logo.png
 i\blocks\interface-icons\digg-button.png
@@ -56,22 +65,48 @@ i\blocks\search\loading.gif
 i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i\blocks\tree
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i\blocks\search
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i\blocks\interface-icons
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i\blocks
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\i
-sistema_de_reportes.htm
-sistema_de_pedidos.htm
-gestion_de_menu_y_productos.htm
-control_de_inventario.htm
-administracion_de_mesas.htm
-acceso_y_roles_del_sistema.htm
-requisitos_del_sistema.htm
-informacion_general.htm
+i\blocks\tree
+i\blocks\search
+i\blocks\interface-icons
+i\blocks
+i
+drex_manual_de_usuario___gestion_de_ordenes_3_custom.png
+manual_de_usuario___gestion_de_ordenes_3.htm
+drex_manual_de_usuario___gestion_de_comandas_custom.png
+manual_de_usuario___gestion_de_comandas.htm
+drex_manual_de_usuario___gestion_de_ordenes_2_custom.png
+manual_de_usuario___gestion_de_ordenes_2.htm
+drex_manual_de_usuario___gestion_de_ordenes_1_custom.png
+manual_de_usuario___gestion_de_ordenes_1.htm
+drex_manual_de_usuario___gestion_de_tamanos_custom_2.png
+drex_manual_de_usuario___gestion_de_tamanos_custom.png
+manual_de_usuario___gestion_de_tamanos.htm
+drex_manual_de_usuario___crear_producto_custom_2.png
+drex_manual_de_usuario___crear_producto_custom.png
+manual_de_usuario___crear_producto.htm
+drex_manual_de_usuario___crear_unidad_custom.png
+manual_de_usuario___crear_unidad.htm
+drex_manual_de_usuario___agregar_proveedor_custom_2.png
+drex_manual_de_usuario___agregar_proveedor_custom.png
+manual_de_usuario___agregar_proveedor.htm
+drex_manual_de_usuario___inventario_de_articulos_custom_2.png
+drex_manual_de_usuario___inventario_de_articulos_custom.png
+manual_de_usuario___inventario_de_articulos.htm
+drex_manual_de_usuario__crear_categoria_custom_2.png
+drex_manual_de_usuario__crear_categoria_custom.png
+manual_de_usuario__crear_categoria.htm
+drex_manual_de_usuario___gestion_de_mesas_custom.png
+manual_de_usuario___gestion_de_mesas.htm
+drex_manual_de_usuario___gestion_de_roles_custom_2.png
+drex_manual_de_usuario___gestion_de_roles_custom.png
+manual_de_usuario___gestion_de_roles.htm
+drex_manual_de_usuario_para_la_pagina_de_inicio_de_sesion_custom.png
+manual_de_usuario_para_la_pagina_de_inicio_de_sesion.htm
+introduccion_.htm
+manual_del_sistema_web_para_la_dinamizacion_de_procesos___de_la_gestion_administrativa_del_restaurante__el_rincon_del_pato__de_guadalupe.htm
 drex_header_custom.png
 drex_index_custom.png
 index.htm
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\css
-C:\traProyectos\TesisII\sistemaweb\public\imagen\Manual de restaurante 2024\js
+css
+js
 drex_file_list

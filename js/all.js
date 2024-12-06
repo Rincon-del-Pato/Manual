@@ -1181,10 +1181,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Página principal","1. Información General","2. Acceso y Roles del Sistema","3. Administración de Mesas","4. Control de Inventario","5. Gestión de Menú y Productos","6. Sistema de Pedidos","7. Sistema de Reportes","1.1. Requisitos del Sistema"],
-    DREX_NODE_LINKS: ["index.htm","informacion_general.htm","acceso_y_roles_del_sistema.htm","administracion_de_mesas.htm","control_de_inventario.htm","gestion_de_menu_y_productos.htm","sistema_de_pedidos.htm","sistema_de_reportes.htm","requisitos_del_sistema.htm"],
-    DREX_NODE_CHILD_START: [1,8,9,9,9,9,9,9,9],
-    DREX_NODE_CHILD_END: [8,9,9,9,9,9,9,9,9],
+    DREX_NODE_NAMES: ["Página principal","Manual del Sistema Web para la Dinamización de Procesos  de la Gestión Administrativa del Restaurante \"El Rincón del Pato\" de Guadalupe","1. Manual de Usuario para la Página de Inicio de Sesión","2. Manual de Usuario - Gestión de Roles","3. Manual de Usuario - Gestión de Mesas","4. Manual de Usuario: Crear Categoría","5. Manual de Usuario - Inventario de Artículos","6. Manual de Usuario - Agregar Proveedor","7. Manual de Usuario - Crear Unidad","8. Manual de Usuario - Crear Producto","9. Manual de Usuario - Gestión de Tamaños","10. Manual de Usuario - Gestión de Ordenes","11. Manual de Usuario - Gestión de Comandas","INTRODUCCIÓN ","10.1. Manual de Usuario - Gestión de Ordenes","11.1. Manual de Usuario - Gestión de Ordenes"],
+    DREX_NODE_LINKS: ["index.htm","manual_del_sistema_web_para_la_dinamizacion_de_procesos___de_la_gestion_administrativa_del_restaurante__el_rincon_del_pato__de_guadalupe.htm","manual_de_usuario_para_la_pagina_de_inicio_de_sesion.htm","manual_de_usuario___gestion_de_roles.htm","manual_de_usuario___gestion_de_mesas.htm","manual_de_usuario__crear_categoria.htm","manual_de_usuario___inventario_de_articulos.htm","manual_de_usuario___agregar_proveedor.htm","manual_de_usuario___crear_unidad.htm","manual_de_usuario___crear_producto.htm","manual_de_usuario___gestion_de_tamanos.htm","manual_de_usuario___gestion_de_ordenes_1.htm","manual_de_usuario___gestion_de_comandas.htm","introduccion_.htm","manual_de_usuario___gestion_de_ordenes_2.htm","manual_de_usuario___gestion_de_ordenes_3.htm"],
+    DREX_NODE_CHILD_START: [1,13,14,14,14,14,14,14,14,14,14,14,15,16,16,16],
+    DREX_NODE_CHILD_END: [13,14,14,14,14,14,14,14,14,14,14,15,16,16,16,16],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 
@@ -1197,9 +1197,9 @@ DR_EXPLAIN.data_search = {
     DREXPLAIN_NOT_FOUND: "No se ha encontrado nada",
     DREXPLAIN_EMPTY_STRING: "Introduzca palabras de b&#x00FA;squeda",
     DREXPLAIN_IN_PROGRESS: "Buscando...",
-    DREXPLAIN_PREVIEW_MODE_SEARCH_IS_DISABLED_NOTICE : "La b&#x00FA;squeda en el modo de vista previa est&#x00E1; desactivada.",
-    DREXPLAIN_ERROR_LOCAL_SEARCH : "No se pueden descargar archivos de &#x00ED;ndice de b&#x00FA;squeda. Cargue los archivos HTML en un servidor web y acceda a ellos a trav&#x00E9;s de una URL que comience con https:// o http:// .",
-    DREXPLAIN_ERROR_REMOTE_SEARCH : "No se pueden descargar archivos de &#x00ED;ndice de b&#x00FA;squeda. Solicite al administrador de su servidor web que permita la descarga de archivos con extensi&#x00F3;n .json o p&#x00F3;ngase en contacto con help@drexplain.com. C&#x00F3;digo de error: {0}"
+    DREXPLAIN_PREVIEW_MODE_SEARCH_IS_DISABLED_NOTICE : "In the preview mode the search is disabled.",
+    DREXPLAIN_ERROR_LOCAL_SEARCH : "Unable to download search index files. Please, upload HTML files to a web server and access them via URL starting with https:// or http:// .",
+    DREXPLAIN_ERROR_REMOTE_SEARCH : "Unable to download search index files. Please, ask your web server administrator to enable the downloading of files with .json extension or contact help@drexplain.com. Error code: {0}"
 
 };
 
