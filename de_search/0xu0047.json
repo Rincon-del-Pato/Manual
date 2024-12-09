@@ -5,7 +5,7 @@
 	{ "s": "GENERADO", "p": [5] },
 	{ "s": "GENERAL", "p": [5, 6] },
 	{ "s": "GENERALES", "p": [5, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6] },
-	{ "s": "GENERAR", "p": [7, 5] },
+	{ "s": "GENERAR", "p": [7] },
 	{ "s": "GENÉRICO", "p": [12] },
 	{ "s": "GERENTE", "p": [5] },
 	{ "s": "GESTIONAR", "p": [13, 15, 8] },

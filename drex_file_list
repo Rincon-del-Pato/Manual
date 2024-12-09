@@ -40,7 +40,6 @@ de_search\0xu0033.json
 de_search\0xu0032.json
 de_search\0xu0031.json
 de_search\0xu0030.json
-de_search
 js\drexplain.data.index.js
 de_style.css
 css\printed.css
@@ -57,7 +56,6 @@ i\photoswipe\default-skin.png
 i\photoswipe\grabbing.cur
 i\photoswipe\grab.cur
 i\photoswipe\zoom_in.cur
-i\photoswipe
 i\blocks\tree\sprite.png
 i\blocks\interface-icons\delicious_logo.png
 i\blocks\interface-icons\digg-button.png
@@ -65,11 +63,6 @@ i\blocks\search\loading.gif
 i\blocks\interface-icons\interface-icons-sprite.png
 i\blocks\interface-icons\interface-icons-sprite-8.png
 i\null.gif
-i\blocks\tree
-i\blocks\search
-i\blocks\interface-icons
-i\blocks
-i
 drex_manual_de_usuario___gestion_de_ordenes_3_custom.png
 manual_de_usuario___gestion_de_ordenes_3.htm
 drex_manual_de_usuario___gestion_de_comandas_custom.png
@@ -107,6 +100,4 @@ manual_del_sistema_web_para_la_dinamizacion_de_procesos___de_la_gestion_administ
 drex_header_custom.png
 drex_index_custom.png
 index.htm
-css
-js
 drex_file_list
